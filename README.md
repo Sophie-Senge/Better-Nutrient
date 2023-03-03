@@ -32,7 +32,7 @@ This week we were challenged to work collaboratively with a team of peers to bui
 
 ## Links
 
-- Live Site URL: https://preshy59.github.io/better_nutrient/
+- Live Site URL: https://sophie-senge.github.io/Better-Nutrient/
 <br>
 
 
